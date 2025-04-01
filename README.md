@@ -8,7 +8,7 @@ Atualmente, trabalho prestando suporte técnico para tecnologias de hospedagem, 
 Tenho interesse em programação, tecnologia e análise de dados. No meu tempo livre, estudo inglês e busco aprimorar minhas habilidades para desenvolver soluções inovadoras.  
 ## About me:
 > * 🏠 São Paulo, SP - Brasil.
-> * 🖌️ Currently learning [**Python**](https://github.com/stars/SuehtamSiq/lists/exs-python).
+> * 🖌️ Currently learning [**Java**](https://github.com/SuehtamSiq/Javabasic_Project).
 > * 🎓 Studying Software Engineering at [**Universidade Paulista**](hhttps://www.unip.br/).
 > * 🛠️ In search of **Opportunities** in the **Development** field.
 
