@@ -15,6 +15,7 @@ Tenho interesse em programação, tecnologia e análise de dados. No meu tempo l
 ### 🧠 Knowledge :
 ### 📈 Back:
 > * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF)
+> * ![Java](https://img.shields.io/badge/-Java-181717?&logo=Java&logoColor=FFFFFF)
 
 ### 🔧 Tools:
 > * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
