@@ -37,4 +37,4 @@ Atualmente, trabalho com **suporte técnico** para tecnologias de hospedagem, do
 ---
 
 ## 📫 Contact:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-siqueira/)
