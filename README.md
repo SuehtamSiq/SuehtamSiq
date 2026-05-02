@@ -28,10 +28,8 @@ Atualmente, trabalho com **suporte técnico** para tecnologias de hospedagem, do
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <a href="https://github.com/SuehtamSiq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuehtamSiq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuehtamSiq&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuehtamSiq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuehtamSiq&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
